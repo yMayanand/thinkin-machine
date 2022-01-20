@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hi there, i am Mayanand.
+I am interested in Deep Learning and currently i am pursuing computer science engineering.
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
